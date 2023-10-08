@@ -1,0 +1,41 @@
+  body {
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+    .calculator {
+      width: 500px;
+      height: 400px;
+      margin: 0 auto;
+      padding: 50px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      box-shadow: 0px 0px 20px #ccc;
+      border-radius: 35px;
+      background-color: steelblue;
+    }
+    input[type="text"] {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+      font-size: 20px;
+    }
+    button {
+      width: 48px;
+      height: 48px;
+      font-size: 24px;
+      margin: 15px;
+      padding: 15px;
+    }
+   #calcu{
+      background-color: pink;
+      font-weight: bold;
+
+    }
+   #calcu_1{
+      background-color: green;
+      color: white;
+    }
+   #calcu_2{
+      background-color: blue;
+      color: whitesmoke;
+    }
